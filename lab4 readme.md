@@ -1,8 +1,8 @@
-presentation:
+# presentation:
 
-screencast:
+# screencast:
 https://youtu.be/KoLZkOknhXU
 
-presentation(подготовка):
+# presentation(подготовка):
 
-отчет:
+# отчет:
