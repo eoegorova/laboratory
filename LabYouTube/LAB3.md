@@ -4,8 +4,7 @@ https://youtu.be/oEIpnyEVrIc
 https://youtu.be/kfodG01dF50
 # presentation:
 https://youtu.be/0bRbrZacP84
-
-#отчет:
+# отчет:
 https://youtu.be/ZMPLc6A_MLE
 # rutube:
  1. ЛАБ https://rutube.ru/video/private/1cbb132c02d24b67ac88b3d170d469b8/?p=xRvur1lw3ScBHO-OteddDg
