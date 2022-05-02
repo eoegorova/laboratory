@@ -5,7 +5,7 @@ https://youtu.be/KCODmcj4Koc
 # presentation:
 https://youtu.be/7ntud3QqlPU
 #отчет:
-https://youtu.be/uV7z_isS6yE
+https://youtu.be/JP8Z-UCdHuk
 # rutube:
  1. screencast: https://rutube.ru/video/private/f93300e4433d6a12cfda850b0182ea9f/?p=9ZBPAdUqOk-Uzz6QcqGnYg
  2. П/П https://rutube.ru/video/private/36d9d35a223c3cf234baebbbd93f2bc4/?p=Y3NjfZYMT6B1bofhYyE9_w
