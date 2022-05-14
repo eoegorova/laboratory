@@ -57,12 +57,12 @@ section-titles: true
 
 
 
-##Добавила информацию об опыте (Experience).
+## Добавила информацию об опыте (Experience).
 рис.[-@fig:002]
 
 
 
-![добавила информацию ](screenproject/img2.png){ #fig:002 width=70% } 
+![добавила информацию](screenproject/img2.png){ #fig:002 width=70% } 
 
 
 
