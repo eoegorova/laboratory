@@ -18,7 +18,7 @@ header-includes:
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
 aspectratio: 43
-section-titles: true
+section-titles: true 
 ---
 
 
